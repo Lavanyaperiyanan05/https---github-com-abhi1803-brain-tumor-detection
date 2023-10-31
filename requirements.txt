@@ -1,5 +1,7 @@
-altair
+tensorflow-cpu
+streamlit
 numpy
 pandas
-pydeck
-streamlit
+keras
+pathlib
+matplotlib
